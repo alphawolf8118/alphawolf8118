@@ -124,9 +124,8 @@ Lightweight, minimal, and built to be extended later.
 Early sketches from the Light Up Flower Music Box V2 design process.  
 These show my initial exploration of petal geometry, hinge placement, and crocus‑inspired bloom motion.
 
-![Sketch 1](link)
-![Sketch 2](link)
-![Sketch 3](link)
+![Sketch 1](sketches/Light-Up-Flower-Sketch-1.jpg)
+![Sketch 2](sketches/Light-Up-Flower-Sketch-2.jpg)
 
 *(More visuals coming as I begin prototyping and part selection.)*
 
