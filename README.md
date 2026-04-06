@@ -60,7 +60,7 @@ Focus areas:
 - Improving the enclosure, stem, and internal structure  
 - Keeping the spirit of the original music box while making it more robust and maintainable
 
-**Repo:** (link)
+**Repo:** [light-up-flower-music-box-v2](https://github.com/alphawolf8118/light-up-flower-music-box-v2)
 
 ---
 
